@@ -1,84 +1,83 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Youbin Park's Resume
 ---
-# Brigham Young
+# Youbin Park
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/youbinpark/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
+# Youbin Park
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+- **Email:** youparkthe@naver.com
+- **Phone:** 424.328.9258
+- **LinkedIn:** [linkedin.com/in/youbinpark/](https://www.linkedin.com/in/youbinpark/)
 
-- Full academic scholarship with 4.0 GPA
+## EDUCATION
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+**Bachelor of Science in Business Analytics**  
+*April 2021 - December 2024*  
+*Brigham Young University - Idaho, Rexburg, ID*  
+- **GPA:** 3.9 / 4.0  
+- *Minor:* Mathematics and Data Science  
+- Developed an algorithm in Excel to monitor the movement of US government treasury bills and gold, identifying divergences and opportunities for long positions in the lagging performer and short position in the other. Made 8% return in one month.
+- Built a linear regression model using R Studio to predict CPI using PCE data from FRED.
+- Captain of 2023 Bloomberg Global Trading Challenge. Used Bloomberg data to back test portfolio strategies and conduct technical analysis.
+- *Additional:* CFA Research Challenge
 
-- 4.0 Major GPA
+## SKILLS/CERTIFICATES
 
+- CFA Level I. Currently working on level II.
+- Bloomberg Market Concepts
+- SQL (Intermediate), RStudio (Advanced), Python (Intermediate), Machine learning (Intermediate), Power BI (Advanced), Tableau (Advanced), Excel (Advanced).
+- Korea Institute of Financial Investment Leverage ETP (ETF, ETN) certified
 
-## Related Experience
+## WORK EXPERIENCE
 
-### Internships
+**Financial Planner and Analyst Intern**  
+*January 2023 - March 2023*  
+*Connecticut Electric INC, Anderson, IN*  
+- Coded inventory forecasting model in Excel to optimize inventory levels.
+- Improved the product defective rate from 10%~50% to 3% by improving batch testing regime and coordinating quality assurance processes with suppliers.
+- Presented to the executive team an analysis of department risks, strengths, weaknesses, and work environment.
+- Selected and attended a creative thinking leadership retreat in Hawaii.
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+**Squad leader**  
+*June 2018 - February 2020*  
+*Republic of Korea Army, South Korea*  
+- Led and trained 5 to 10 squad members, providing feedback and coaching to increase battle effectiveness.
+- Counseled and motivated squad members to persevere in the face of intense physical training.
+- Learned how to communicate effectively with peers under duress.
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+## VOLUNTEER EXPERIENCE
 
-### Data Science Lead
+**Club leader, Instructor**  
+*April 2021 - Present*  
+*BYUI Brazilian Jiu-Jitsu Club, Rexburg, ID*  
+- Mentor 150 ~ 200 students at various skill and motivation levels, maximizing the value added of training.
+- Manage all aspects of the organization's activities, including training, competitions, and events.
+- *Additional:* 하나더 추가
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+**VP**  
+*April 2023 – September 2023*  
+*Financial Economics Society, Rexburg, ID*  
+- Trained junior members on the basics of options markets and risk management using the Black Scholes model and Monte Carlo simulations.
+- Collaborate to plan events and initiatives to provide networking opportunities with industry professionals.
+- Organize weekly discussions reviewing current events and trends in financial markets.
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+**CFO**  
+*January 2022 - April 2023*  
+*Corporate Finance Society, Rexburg, ID*  
+- Contributed to the success of the BYUI Corporate Finance Society by providing effective financial leadership and management, which enabled the society to achieve its mission and strategic objectives.
+- Placed second in stock trading competition.
 
 
 

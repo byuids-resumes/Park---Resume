@@ -14,13 +14,6 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
-## Education
-# Youbin Park
-
-- **Email:** youparkthe@naver.com
-- **Phone:** 424.328.9258
-- **LinkedIn:** [linkedin.com/in/youbinpark/](https://www.linkedin.com/in/youbinpark/)
-
 ## EDUCATION
 
 **Bachelor of Science in Business Analytics**  

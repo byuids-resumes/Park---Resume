@@ -3,10 +3,9 @@ layout: cv
 title: Youbin Park's Resume
 ---
 # Youbin Park
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="datascience@byui.edu">par17012@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/youbinpark/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
@@ -57,7 +56,6 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 *BYUI Brazilian Jiu-Jitsu Club, Rexburg, ID*
 - Mentor 150 ~ 200 students at various skill and motivation levels, maximizing the value added of training
 - Manage all aspects of the organization's activities, including training, competitions, and events
-- *Additional:* 하나더 추가
 
 **VP**
 *April 2023 – September 2023*
